@@ -1,0 +1,6 @@
+*
+*/
+!.gitignore
+!download_dataset.sh
+!README.md
+!DONOTUSE_download_dataset_ideal.sh
